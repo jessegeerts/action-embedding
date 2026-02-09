@@ -1,6 +1,6 @@
 # Action Embeddings for Reinforcement Learning
 
-This repository contains the code to reproduce results from the paper *"Why motor learning involves multiple systems: an algorithmic perspective"* by **Francesca Greenstreet**, **Jesse Geerts**, Juan Gallego and Claudia Clopath [[bioRxiv]](https://www.biorxiv.org/content/10.64898/2025.12.19.695526v2)
+This repository contains the code to reproduce results from the paper *"Why motor learning involves multiple systems: an algorithmic perspective"* by **Francesca Greenstreet**, **Jesse Geerts**, Juan Gallego and Claudia Clopath [[bioRxiv]](https://www.biorxiv.org/content/10.64898/2025.12.19.695526v3)
 
 ## Installation
 
