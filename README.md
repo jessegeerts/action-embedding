@@ -107,9 +107,10 @@ jupyter notebook
 | Figure | Notebook | Prerequisites |
 |--------|----------|---------------|
 | Figure 1 | `plot_fig1.ipynb` | Steps 1-2 (embedding + policy training) |
-| Figure 2 | `plot_fig2.ipynb` | Step 2 (policy training) |
-| Figure 3 | `plot_fig3.ipynb` | Steps 1-3 (all training + adaptation) |
-| Figure 4 | `plot_fig4.ipynb` | Steps 1-3 (all training + double adaptation) |
+| Figure 2 | `plot_fig2.ipynb` | Step 2 (single joint and two-joint figure generation) |
+| Figure 2 | `plot_fig3.ipynb` | Step 3 (policy training) |
+| Figure 3 | `plot_fig4.ipynb` | Steps 1-4 (all training + adaptation) |
+| Figure 4 | `plot_fig5.ipynb` | Steps 1-5 (all training + double adaptation) |
 
 ### Generated Data Files
 
